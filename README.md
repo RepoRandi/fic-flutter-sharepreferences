@@ -1,4 +1,4 @@
-# flutter_binar_localstorage
+# Flutter Intensive Club Batch 2 - Gmeet 4 
 
 A new Flutter project.
 
